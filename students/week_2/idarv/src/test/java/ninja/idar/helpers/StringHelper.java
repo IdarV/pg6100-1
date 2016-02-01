@@ -1,4 +1,4 @@
-package helpers;
+package ninja.idar.helpers;
 
 /**
  * Created by Idar Vassdal on 29.01.2016.

@@ -1,6 +1,6 @@
 package ninja.idar.models;
 
-import helpers.GenericBeanIntegrationTestHelper;
+import ninja.idar.helpers.GenericBeanIntegrationTestHelper;
 import org.junit.AfterClass;
 import org.junit.Test;
 

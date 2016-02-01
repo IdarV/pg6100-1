@@ -1,7 +1,7 @@
 package ninja.idar.models;
 
-import helpers.GenericBeanValidationTestHelper;
-import helpers.StringHelper;
+import ninja.idar.helpers.GenericBeanValidationTestHelper;
+import ninja.idar.helpers.StringHelper;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.Test;

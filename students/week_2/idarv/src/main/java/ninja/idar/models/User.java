@@ -6,11 +6,10 @@ import javax.validation.constraints.Pattern;
 
 /**
  * Created by Idar Vassdal on 25.01.2016.
- * regex is
  */
 @Entity
 @NamedQueries({
-        @NamedQuery(query = "Select e from User e", name = "allUsers"),
+        @NamedQuery(query = "Select e from User e", name = User.USERS_ALL),
 })
 public class User {
     public static final String USERS_ALL = "allUsers";

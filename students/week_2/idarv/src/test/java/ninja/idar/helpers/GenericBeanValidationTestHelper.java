@@ -1,4 +1,4 @@
-package helpers;
+package ninja.idar.helpers;
 
 import javax.validation.Validation;
 import javax.validation.Validator;

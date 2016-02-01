@@ -1,4 +1,4 @@
-package helpers;
+package ninja.idar.helpers;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
